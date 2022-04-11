@@ -1,0 +1,664 @@
+F(8) #points: 388, KF(7) #points: 440 
+adding new KF with frame id  8: 
+F(9) #points: 378, KF(7) #points: 400 
+F(10) #points: 371, KF(5) #points: 400 
+F(11) #points: 347, KF(5) #points: 400 
+adding new KF with frame id  11: 
+F(12) #points: 418, KF(5) #points: 441 
+F(13) #points: 374, KF(11) #points: 390 
+F(14) #points: 362, KF(11) #points: 390 
+F(15) #points: 330, KF(11) #points: 390 
+adding new KF with frame id  15: 
+F(16) #points: 381, KF(15) #points: 349 
+F(17) #points: 351, KF(15) #points: 349 
+F(18) #points: 343, KF(15) #points: 349 
+F(19) #points: 318, KF(8) #points: 481 
+adding new KF with frame id  19: 
+F(20) #points: 319, KF(19) #points: 328 
+F(21) #points: 294, KF(19) #points: 328 
+adding new KF with frame id  21: 
+F(22) #points: 311, KF(21) #points: 311 
+F(23) #points: 302, KF(21) #points: 311 
+F(24) #points: 312, KF(21) #points: 311 
+F(25) #points: 278, KF(15) #points: 379 
+adding new KF with frame id  25: 
+F(26) #points: 306, KF(25) #points: 302 
+F(27) #points: 288, KF(25) #points: 302 
+F(28) #points: 299, KF(25) #points: 302 
+F(29) #points: 278, KF(25) #points: 302 
+F(30) #points: 285, KF(25) #points: 302 
+F(31) #points: 269, KF(25) #points: 302 
+adding new KF with frame id  31: 
+F(32) #points: 305, KF(31) #points: 281 
+F(33) #points: 298, KF(31) #points: 281 
+F(34) #points: 286, KF(31) #points: 281 
+F(35) #points: 274, KF(25) #points: 320 
+adding new KF with frame id  35: 
+F(36) #points: 275, KF(35) #points: 280 
+F(37) #points: 274, KF(35) #points: 280 
+F(38) #points: 271, KF(35) #points: 280 
+F(39) #points: 260, KF(35) #points: 280 
+F(40) #points: 266, KF(35) #points: 280 
+F(41) #points: 248, KF(35) #points: 280 
+adding new KF with frame id  41: 
+F(42) #points: 265, KF(41) #points: 265 
+F(43) #points: 250, KF(41) #points: 265 
+F(44) #points: 255, KF(35) #points: 290 
+adding new KF with frame id  44: 
+F(45) #points: 248, KF(44) #points: 266 
+F(46) #points: 251, KF(44) #points: 266 
+F(47) #points: 240, KF(44) #points: 266 
+F(48) #points: 234, KF(44) #points: 266 
+adding new KF with frame id  48: 
+F(49) #points: 226, KF(48) #points: 256 
+adding new KF with frame id  49: 
+F(50) #points: 247, KF(49) #points: 244 
+F(51) #points: 252, KF(48) #points: 270 
+F(52) #points: 249, KF(48) #points: 270 
+F(53) #points: 223, KF(48) #points: 270 
+adding new KF with frame id  53: 
+F(54) #points: 239, KF(53) #points: 229 
+F(55) #points: 231, KF(53) #points: 229 
+F(56) #points: 236, KF(53) #points: 229 
+F(57) #points: 225, KF(48) #points: 270 
+adding new KF with frame id  57: 
+F(58) #points: 232, KF(57) #points: 245 
+F(59) #points: 234, KF(57) #points: 245 
+F(60) #points: 224, KF(57) #points: 245 
+F(61) #points: 206, KF(57) #points: 245 
+adding new KF with frame id  61: 
+F(62) #points: 248, KF(61) #points: 233 
+F(63) #points: 230, KF(61) #points: 233 
+F(64) #points: 224, KF(61) #points: 233 
+F(65) #points: 211, KF(61) #points: 233 
+F(66) #points: 226, KF(61) #points: 233 
+F(67) #points: 213, KF(61) #points: 233 
+F(68) #points: 223, KF(61) #points: 233 
+F(69) #points: 207, KF(61) #points: 233 
+adding new KF with frame id  69: 
+F(70) #points: 212, KF(69) #points: 220 
+F(71) #points: 211, KF(69) #points: 220 
+F(72) #points: 129, KF(69) #points: 220 
+adding new KF with frame id  72: 
+F(73) #points: 53, KF(72) #points: 158 
+adding new KF with frame id  73: 
+F(74) #points: 64, KF(73) #points: 55 
+F(75) #points: 129, KF(69) #points: 253 
+adding new KF with frame id  75: 
+F(76) #points: 176, KF(75) #points: 152 
+F(77) #points: 185, KF(75) #points: 152 
+F(78) #points: 192, KF(69) #points: 268 
+adding new KF with frame id  78: 
+F(79) #points: 200, KF(78) #points: 226 
+adding new KF with frame id  79: 
+F(80) #points: 217, KF(79) #points: 232 
+F(81) #points: 207, KF(79) #points: 232 
+adding new KF with frame id  81: 
+F(82) #points: 202, KF(81) #points: 226 
+adding new KF with frame id  82: 
+F(83) #points: 211, KF(82) #points: 251 
+adding new KF with frame id  83: 
+F(84) #points: 212, KF(83) #points: 226 
+F(85) #points: 212, KF(83) #points: 226 
+F(86) #points: 201, KF(83) #points: 226 
+adding new KF with frame id  86: 
+F(87) #points: 237, KF(86) #points: 256 
+F(88) #points: 248, KF(86) #points: 256 
+F(89) #points: 233, KF(86) #points: 256 
+F(90) #points: 241, KF(86) #points: 256 
+F(91) #points: 225, KF(83) #points: 260 
+adding new KF with frame id  91: 
+F(92) #points: 207, KF(91) #points: 245 
+adding new KF with frame id  92: 
+F(93) #points: 204, KF(92) #points: 220 
+F(94) #points: 208, KF(91) #points: 248 
+adding new KF with frame id  94: 
+F(95) #points: 209, KF(94) #points: 219 
+F(96) #points: 203, KF(94) #points: 219 
+F(97) #points: 202, KF(94) #points: 219 
+F(98) #points: 186, KF(94) #points: 219 
+adding new KF with frame id  98: 
+F(99) #points: 217, KF(98) #points: 245 
+adding new KF with frame id  99: 
+F(100) #points: 220, KF(99) #points: 247 
+adding new KF with frame id  100: 
+F(101) #points: 241, KF(100) #points: 233 
+F(102) #points: 218, KF(100) #points: 233 
+F(103) #points: 234, KF(99) #points: 254 
+F(104) #points: 225, KF(99) #points: 254 
+adding new KF with frame id  104: 
+F(105) #points: 261, KF(104) #points: 275 
+F(106) #points: 230, KF(104) #points: 275 
+adding new KF with frame id  106: 
+F(107) #points: 240, KF(106) #points: 255 
+F(108) #points: 220, KF(106) #points: 255 
+adding new KF with frame id  108: 
+F(109) #points: 238, KF(108) #points: 256 
+F(110) #points: 224, KF(108) #points: 256 
+adding new KF with frame id  110: 
+F(111) #points: 247, KF(110) #points: 243 
+F(112) #points: 251, KF(110) #points: 243 
+F(113) #points: 258, KF(104) #points: 307 
+adding new KF with frame id  113: 
+F(114) #points: 269, KF(113) #points: 294 
+F(115) #points: 260, KF(113) #points: 294 
+adding new KF with frame id  115: 
+F(116) #points: 251, KF(115) #points: 297 
+adding new KF with frame id  116: 
+F(117) #points: 263, KF(116) #points: 277 
+F(118) #points: 235, KF(115) #points: 303 
+adding new KF with frame id  118: 
+F(119) #points: 269, KF(118) #points: 264 
+F(120) #points: 252, KF(118) #points: 264 
+F(121) #points: 264, KF(118) #points: 264 
+F(122) #points: 254, KF(113) #points: 338 
+adding new KF with frame id  122: 
+F(123) #points: 258, KF(122) #points: 293 
+adding new KF with frame id  123: 
+F(124) #points: 271, KF(123) #points: 300 
+F(125) #points: 263, KF(123) #points: 300 
+adding new KF with frame id  125: 
+F(126) #points: 246, KF(125) #points: 279 
+adding new KF with frame id  126: 
+F(127) #points: 247, KF(126) #points: 256 
+F(128) #points: 247, KF(123) #points: 307 
+adding new KF with frame id  128: 
+F(129) #points: 267, KF(128) #points: 282 
+F(130) #points: 247, KF(128) #points: 282 
+adding new KF with frame id  130: 
+F(131) #points: 275, KF(130) #points: 279 
+F(132) #points: 249, KF(128) #points: 293 
+adding new KF with frame id  132: 
+F(133) #points: 268, KF(132) #points: 279 
+F(134) #points: 262, KF(132) #points: 279 
+F(135) #points: 255, KF(132) #points: 279 
+F(136) #points: 245, KF(132) #points: 279 
+adding new KF with frame id  136: 
+F(137) #points: 270, KF(136) #points: 283 
+F(138) #points: 253, KF(136) #points: 283 
+adding new KF with frame id  138: 
+F(139) #points: 279, KF(138) #points: 287 
+F(140) #points: 266, KF(136) #points: 307 
+adding new KF with frame id  140: 
+F(141) #points: 268, KF(140) #points: 279 
+F(142) #points: 248, KF(140) #points: 279 
+adding new KF with frame id  142: 
+F(143) #points: 289, KF(142) #points: 291 
+F(144) #points: 267, KF(142) #points: 291 
+F(145) #points: 256, KF(142) #points: 291 
+adding new KF with frame id  145: 
+F(146) #points: 263, KF(145) #points: 296 
+adding new KF with frame id  146: 
+F(147) #points: 277, KF(146) #points: 284 
+F(148) #points: 269, KF(146) #points: 284 
+F(149) #points: 272, KF(146) #points: 284 
+F(150) #points: 243, KF(145) #points: 311 
+adding new KF with frame id  150: 
+F(151) #points: 269, KF(150) #points: 287 
+F(152) #points: 266, KF(150) #points: 287 
+F(153) #points: 270, KF(150) #points: 287 
+F(154) #points: 267, KF(150) #points: 287 
+F(155) #points: 248, KF(150) #points: 287 
+adding new KF with frame id  155: 
+F(156) #points: 272, KF(155) #points: 285 
+F(157) #points: 268, KF(155) #points: 285 
+F(158) #points: 263, KF(155) #points: 285 
+F(159) #points: 273, KF(155) #points: 285 
+F(160) #points: 250, KF(155) #points: 285 
+adding new KF with frame id  160: 
+F(161) #points: 277, KF(160) #points: 276 
+F(162) #points: 261, KF(160) #points: 276 
+F(163) #points: 262, KF(160) #points: 276 
+F(164) #points: 249, KF(160) #points: 276 
+F(165) #points: 247, KF(160) #points: 276 
+adding new KF with frame id  165: 
+F(166) #points: 250, KF(165) #points: 270 
+F(167) #points: 258, KF(165) #points: 270 
+F(168) #points: 246, KF(160) #points: 301 
+adding new KF with frame id  168: 
+F(169) #points: 253, KF(168) #points: 258 
+F(170) #points: 241, KF(168) #points: 258 
+F(171) #points: 229, KF(168) #points: 258 
+adding new KF with frame id  171: 
+F(172) #points: 248, KF(171) #points: 266 
+F(173) #points: 256, KF(171) #points: 266 
+F(174) #points: 242, KF(171) #points: 266 
+F(175) #points: 235, KF(171) #points: 266 
+adding new KF with frame id  175: 
+F(176) #points: 257, KF(175) #points: 299 
+F(177) #points: 273, KF(175) #points: 299 
+F(178) #points: 248, KF(175) #points: 299 
+adding new KF with frame id  178: 
+F(179) #points: 257, KF(178) #points: 269 
+F(180) #points: 226, KF(178) #points: 269 
+adding new KF with frame id  180: 
+F(181) #points: 229, KF(180) #points: 249 
+F(182) #points: 228, KF(180) #points: 244 
+F(183) #points: 221, KF(180) #points: 244 
+F(184) #points: 230, KF(175) #points: 330 
+adding new KF with frame id  184: 
+F(185) #points: 236, KF(184) #points: 278 
+F(186) #points: 237, KF(184) #points: 268 
+adding new KF with frame id  186: 
+F(187) #points: 259, KF(186) #points: 288 
+adding new KF with frame id  187: 
+F(188) #points: 262, KF(187) #points: 278 
+F(189) #points: 266, KF(187) #points: 278 
+F(190) #points: 207, KF(186) #points: 305 
+adding new KF with frame id  190: 
+F(191) #points: 185, KF(190) #points: 255 
+adding new KF with frame id  191: 
+F(192) #points: 227, KF(191) #points: 231 
+F(193) #points: 239, KF(186) #points: 352 
+adding new KF with frame id  193: 
+F(194) #points: 269, KF(193) #points: 299 
+adding new KF with frame id  194: 
+F(195) #points: 238, KF(194) #points: 319 
+adding new KF with frame id  195: 
+F(196) #points: 183, KF(195) #points: 277 
+F(197) #points: 191, KF(195) #points: 272 
+adding new KF with frame id  197: 
+F(198) #points: 215, KF(197) #points: 236 
+F(199) #points: 202, KF(197) #points: 229 
+adding new KF with frame id  199: 
+F(200) #points: 228, KF(199) #points: 233 
+F(201) #points: 205, KF(199) #points: 233 
+adding new KF with frame id  201: 
+F(202) #points: 218, KF(201) #points: 238 
+F(203) #points: 204, KF(201) #points: 238 
+adding new KF with frame id  203: 
+F(204) #points: 187, KF(203) #points: 223 
+F(205) #points: 180, KF(203) #points: 223 
+adding new KF with frame id  205: 
+F(206) #points: 179, KF(205) #points: 205 
+adding new KF with frame id  206: 
+F(207) #points: 166, KF(206) #points: 196 
+F(208) #points: 167, KF(206) #points: 196 
+adding new KF with frame id  208: 
+F(209) #points: 137, KF(208) #points: 193 
+F(210) #points: 160, KF(208) #points: 191 
+adding new KF with frame id  210: 
+F(211) #points: 169, KF(210) #points: 166 
+F(212) #points: 168, KF(210) #points: 166 
+F(213) #points: 153, KF(210) #points: 166 
+F(214) #points: 152, KF(210) #points: 166 
+F(215) #points: 141, KF(210) #points: 166 
+adding new KF with frame id  215: 
+F(216) #points: 172, KF(215) #points: 229 
+F(217) #points: 179, KF(215) #points: 217 
+adding new KF with frame id  217: 
+F(218) #points: 192, KF(217) #points: 202 
+F(219) #points: 186, KF(217) #points: 202 
+F(220) #points: 181, KF(217) #points: 202 
+adding new KF with frame id  220: 
+F(221) #points: 180, KF(220) #points: 189 
+F(222) #points: 169, KF(220) #points: 189 
+adding new KF with frame id  222: 
+F(223) #points: 168, KF(222) #points: 177 
+F(224) #points: 159, KF(222) #points: 177 
+adding new KF with frame id  224: 
+F(225) #points: 148, KF(224) #points: 159 
+F(226) #points: 155, KF(224) #points: 159 
+F(227) #points: 151, KF(224) #points: 159 
+F(228) #points: 152, KF(224) #points: 159 
+F(229) #points: 142, KF(224) #points: 159 
+adding new KF with frame id  229: 
+F(230) #points: 148, KF(229) #points: 144 
+F(231) #points: 132, KF(229) #points: 144 
+F(232) #points: 151, KF(229) #points: 144 
+F(233) #points: 133, KF(229) #points: 144 
+F(234) #points: 130, KF(224) #points: 156 
+adding new KF with frame id  234: 
+F(235) #points: 134, KF(234) #points: 138 
+F(236) #points: 131, KF(234) #points: 138 
+F(237) #points: 134, KF(234) #points: 138 
+F(238) #points: 127, KF(229) #points: 145 
+adding new KF with frame id  238: 
+F(239) #points: 137, KF(238) #points: 140 
+F(240) #points: 137, KF(238) #points: 140 
+F(241) #points: 128, KF(238) #points: 140 
+F(242) #points: 130, KF(238) #points: 140 
+F(243) #points: 120, KF(238) #points: 140 
+adding new KF with frame id  243: 
+F(244) #points: 130, KF(243) #points: 126 
+F(245) #points: 122, KF(238) #points: 138 
+adding new KF with frame id  245: 
+F(246) #points: 121, KF(245) #points: 125 
+F(247) #points: 113, KF(245) #points: 125 
+F(248) #points: 99, KF(238) #points: 139 
+adding new KF with frame id  248: 
+F(249) #points: 107, KF(248) #points: 104 
+F(250) #points: 121, KF(238) #points: 141 
+adding new KF with frame id  250: 
+F(251) #points: 118, KF(250) #points: 125 
+F(252) #points: 110, KF(250) #points: 125 
+adding new KF with frame id  252: 
+F(253) #points: 105, KF(252) #points: 110 
+F(254) #points: 101, KF(250) #points: 125 
+adding new KF with frame id  254: 
+F(255) #points: 91, KF(254) #points: 106 
+adding new KF with frame id  255: 
+F(256) #points: 42, KF(255) #points: 94 
+F(257) #points: 44, KF(255) #points: 94 
+adding new KF with frame id  257: 
+F(258) #points: 62, KF(257) #points: 54 
+F(259) #points: 58, KF(234) #points: 145 
+adding new KF with frame id  259: 
+F(260) #points: 68, KF(259) #points: 69 
+F(261) #points: 92, KF(220) #points: 193 
+adding new KF with frame id  261: 
+F(262) #points: 96, KF(261) #points: 104 
+F(263) #points: 94, KF(261) #points: 104 
+F(264) #points: 100, KF(261) #points: 104 
+F(265) #points: 87, KF(261) #points: 104 
+adding new KF with frame id  265: 
+F(266) #points: 106, KF(265) #points: 125 
+adding new KF with frame id  266: 
+F(267) #points: 110, KF(266) #points: 126 
+adding new KF with frame id  267: 
+F(268) #points: 121, KF(267) #points: 126 
+F(269) #points: 101, KF(267) #points: 126 
+adding new KF with frame id  269: 
+F(270) #points: 125, KF(269) #points: 113 
+F(271) #points: 108, KF(265) #points: 129 
+adding new KF with frame id  271: 
+F(272) #points: 116, KF(271) #points: 122 
+F(273) #points: 111, KF(271) #points: 122 
+F(274) #points: 111, KF(271) #points: 122 
+F(275) #points: 103, KF(271) #points: 122 
+adding new KF with frame id  275: 
+F(276) #points: 114, KF(275) #points: 128 
+adding new KF with frame id  276: 
+F(277) #points: 125, KF(276) #points: 137 
+F(278) #points: 116, KF(275) #points: 131 
+adding new KF with frame id  278: 
+F(279) #points: 109, KF(278) #points: 140 
+F(280) #points: 74, KF(278) #points: 133 
+adding new KF with frame id  280: 
+F(281) #points: 87, KF(280) #points: 90 
+F(282) #points: 83, KF(276) #points: 143 
+adding new KF with frame id  282: 
+F(283) #points: 91, KF(282) #points: 123 
+F(284) #points: 80, KF(278) #points: 151 
+adding new KF with frame id  284: 
+F(285) #points: 108, KF(284) #points: 103 
+F(286) #points: 102, KF(284) #points: 103 
+F(287) #points: 103, KF(284) #points: 103 
+F(288) #points: 93, KF(276) #points: 154 
+adding new KF with frame id  288: 
+F(289) #points: 102, KF(288) #points: 120 
+F(290) #points: 92, KF(288) #points: 120 
+adding new KF with frame id  290: 
+F(291) #points: 106, KF(290) #points: 122 
+adding new KF with frame id  291: 
+F(292) #points: 111, KF(291) #points: 132 
+F(293) #points: 113, KF(291) #points: 132 
+adding new KF with frame id  293: 
+F(294) #points: 115, KF(293) #points: 130 
+adding new KF with frame id  294: 
+F(295) #points: 124, KF(294) #points: 134 
+F(296) #points: 114, KF(294) #points: 134 
+adding new KF with frame id  296: 
+F(297) #points: 121, KF(296) #points: 131 
+F(298) #points: 101, KF(296) #points: 131 
+adding new KF with frame id  298: 
+F(299) #points: 118, KF(298) #points: 125 
+F(300) #points: 111, KF(298) #points: 125 
+adding new KF with frame id  300: 
+F(301) #points: 120, KF(300) #points: 136 
+adding new KF with frame id  301: 
+F(302) #points: 110, KF(301) #points: 137 
+adding new KF with frame id  302: 
+F(303) #points: 110, KF(302) #points: 123 
+adding new KF with frame id  303: 
+F(304) #points: 107, KF(303) #points: 125 
+adding new KF with frame id  304: 
+F(305) #points: 114, KF(304) #points: 118 
+F(306) #points: 92, KF(302) #points: 125 
+adding new KF with frame id  306: 
+F(307) #points: 98, KF(306) #points: 102 
+F(308) #points: 94, KF(302) #points: 124 
+adding new KF with frame id  308: 
+F(309) #points: 94, KF(308) #points: 107 
+adding new KF with frame id  309: 
+F(310) #points: 91, KF(309) #points: 111 
+adding new KF with frame id  310: 
+F(311) #points: 87, KF(310) #points: 99 
+adding new KF with frame id  311: 
+F(312) #points: 76, KF(311) #points: 94 
+adding new KF with frame id  312: 
+F(313) #points: 76, KF(312) #points: 89 
+adding new KF with frame id  313: 
+F(314) #points: 65, KF(313) #points: 83 
+adding new KF with frame id  314: 
+F(315) #points: 65, KF(314) #points: 68 
+F(316) #points: 29, KF(308) #points: 119 
+adding new KF with frame id  316: 
+F(317) #points: 38, KF(316) #points: 31 
+F(318) #points: 46, KF(313) #points: 84 
+adding new KF with frame id  318: 
+F(319) #points: 49, KF(318) #points: 60 
+adding new KF with frame id  319: 
+F(320) #points: 45, KF(319) #points: 54 
+adding new KF with frame id  320: 
+F(321) #points: 50, KF(320) #points: 51 
+F(322) #points: 62, KF(313) #points: 90 
+adding new KF with frame id  322: 
+F(323) #points: 61, KF(322) #points: 74 
+adding new KF with frame id  323: 
+F(324) #points: 69, KF(323) #points: 71 
+F(325) #points: 65, KF(323) #points: 71 
+F(326) #points: 64, KF(323) #points: 71 
+F(327) #points: 72, KF(308) #points: 125 
+adding new KF with frame id  327: 
+F(328) #points: 68, KF(327) #points: 81 
+adding new KF with frame id  328: 
+F(329) #points: 59, KF(328) #points: 72 
+adding new KF with frame id  329: 
+F(330) #points: 59, KF(329) #points: 63 
+F(331) #points: 58, KF(327) #points: 82 
+adding new KF with frame id  331: 
+F(332) #points: 51, KF(331) #points: 64 
+adding new KF with frame id  332: 
+F(333) #points: 57, KF(332) #points: 55 
+F(334) #points: 55, KF(327) #points: 82 
+adding new KF with frame id  334: 
+F(335) #points: 50, KF(334) #points: 60 
+adding new KF with frame id  335: 
+F(336) #points: 56, KF(335) #points: 57 
+F(337) #points: 47, KF(328) #points: 79 
+adding new KF with frame id  337: 
+F(338) #points: 41, KF(337) #points: 49 
+adding new KF with frame id  338: 
+F(339) #points: 37, KF(338) #points: 45 
+adding new KF with frame id  339: 
+F(340) #points: 40, KF(339) #points: 40 
+F(341) #points: 41, KF(328) #points: 80 
+adding new KF with frame id  341: 
+F(342) #points: 40, KF(341) #points: 44 
+F(343) #points: 32, KF(341) #points: 44 
+adding new KF with frame id  343: 
+F(344) #points: 36, KF(343) #points: 40 
+F(345) #points: 30, KF(341) #points: 46 
+adding new KF with frame id  345: 
+F(346) #points: 30, KF(345) #points: 33 
+F(347) #points: 31, KF(345) #points: 33 
+F(348) #points: 24, KF(308) #points: 129 
+adding new KF with frame id  348: 
+F(349) #points: 28, KF(348) #points: 25 
+F(350) #points: 29, KF(308) #points: 129 
+adding new KF with frame id  350: 
+F(351) #points: 29, KF(350) #points: 29 
+F(352) #points: 30, KF(350) #points: 29 
+F(353) #points: 27, KF(350) #points: 29 
+F(354) #points: 25, KF(308) #points: 129 
+adding new KF with frame id  354: 
+F(355) #points: 25, KF(354) #points: 25 
+F(356) #points: 21, KF(310) #points: 121 
+adding new KF with frame id  356: 
+F(357) #points: 20, KF(296) #points: 168 
+adding new KF with frame id  357: 
+F(358) #points: 23, KF(296) #points: 168 
+adding new KF with frame id  358: 
+F(359) #points: 24, KF(358) #points: 23 
+F(360) #points: 24, KF(301) #points: 158 
+adding new KF with frame id  360: 
+F(361) #points: 27, KF(360) #points: 24 
+F(362) #points: 27, KF(301) #points: 158 
+adding new KF with frame id  362: 
+F(363) #points: 28, KF(362) #points: 27 
+F(364) #points: 26, KF(301) #points: 158 
+adding new KF with frame id  364: 
+F(365) #points: 24, KF(364) #points: 28 
+adding new KF with frame id  365: 
+F(366) #points: 23, KF(365) #points: 25 
+F(367) #points: 24, KF(334) #points: 68 
+adding new KF with frame id  367: 
+F(368) #points: 22, KF(367) #points: 25 
+adding new KF with frame id  368: 
+F(369) #points: 22, KF(334) #points: 68 
+adding new KF with frame id  369: 
+F(370) #points: 25, KF(369) #points: 22 
+F(371) #points: 27, KF(301) #points: 158 
+adding new KF with frame id  371: 
+F(372) #points: 26, KF(371) #points: 27 
+F(373) #points: 24, KF(371) #points: 27 
+adding new KF with frame id  373: 
+F(374) #points: 22, KF(373) #points: 25 
+adding new KF with frame id  374: 
+F(375) #points: 21, KF(373) #points: 25 
+adding new KF with frame id  375: 
+F(376) #points: 20, KF(375) #points: 21 
+F(377) #points: 21, KF(375) #points: 21 
+F(378) #points: 20, KF(375) #points: 21 
+F(379) #points: 15, KF(375) #points: 21 
+F(380) #points: 21, KF(375) #points: 21 
+F(381) #points: 17, KF(328) #points: 82 
+adding new KF with frame id  381: 
+F(382) #points: 22, KF(381) #points: 17 
+F(383) #points: 17, KF(327) #points: 87 
+adding new KF with frame id  383: 
+F(384) #points: 22, KF(383) #points: 17 
+F(385) #points: 20, KF(373) #points: 25 
+F(386) #points: 17, KF(373) #points: 25 
+F(387) #points: 20, KF(335) #points: 62 
+F(388) #points: 20, KF(335) #points: 62 
+F(389) #points: 22, KF(373) #points: 25 
+F(390) #points: 17, KF(301) #points: 158 
+F(391) #points: 19, KF(327) #points: 87 
+F(392) #points: 17, KF(335) #points: 62 
+F(393) #points: 17, KF(383) #points: 17 
+F(394) #points: 8, KF(288) #points: 144 
+F(395) #points: 9, KF(335) #points: 62 
+F(396) #points: 14, KF(328) #points: 82 
+F(397) #points: 12, KF(335) #points: 62 
+F(398) #points: 15, KF(335) #points: 62 
+F(399) #points: 16, KF(335) #points: 62 
+F(400) #points: 19, KF(383) #points: 17 
+F(401) #points: 20, KF(335) #points: 62 
+F(402) #points: 17, KF(337) #points: 55 
+F(403) #points: 15, KF(335) #points: 62 
+F(404) #points: 17, KF(275) #points: 188 
+F(405) #points: 16, KF(335) #points: 62 
+F(406) #points: 13, KF(311) #points: 110 
+F(407) #points: 18, KF(383) #points: 17 
+F(408) #points: 6, KF(234) #points: 195 
+F(410) #points: 12, KF(234) #points: 195 
+F(411) #points: 15, KF(266) #points: 169 
+F(412) #points: 17, KF(266) #points: 169 
+F(413) #points: 15, KF(266) #points: 169 
+F(414) #points: 15, KF(238) #points: 192 
+F(415) #points: 12, KF(238) #points: 192 
+F(416) #points: 17, KF(271) #points: 176 
+adding new KF with frame id  416: 
+F(417) #points: 9, KF(252) #points: 198 
+F(418) #points: 9, KF(288) #points: 144 
+F(419) #points: 10, KF(282) #points: 138 
+F(420) #points: 10, KF(234) #points: 195 
+F(421) #points: 11, KF(238) #points: 192 
+F(422) #points: 12, KF(271) #points: 176 
+F(423) #points: 12, KF(296) #points: 168 
+F(424) #points: 15, KF(301) #points: 158 
+F(425) #points: 12, KF(276) #points: 193 
+F(426) #points: 16, KF(267) #points: 167 
+F(427) #points: 13, KF(310) #points: 121 
+F(430) #points: 6, KF(288) #points: 144 
+F(431) #points: 14, KF(288) #points: 144 
+F(432) #points: 14, KF(271) #points: 176 
+F(433) #points: 17, KF(271) #points: 176 
+F(434) #points: 13, KF(271) #points: 176 
+F(435) #points: 13, KF(275) #points: 188 
+F(436) #points: 17, KF(275) #points: 188 
+F(437) #points: 13, KF(269) #points: 150 
+F(438) #points: 15, KF(275) #points: 188 
+F(439) #points: 11, KF(275) #points: 188 
+F(440) #points: 16, KF(238) #points: 192 
+F(441) #points: 17, KF(276) #points: 193 
+F(442) #points: 15, KF(298) #points: 156 
+F(443) #points: 14, KF(311) #points: 110 
+F(444) #points: 15, KF(275) #points: 188 
+F(445) #points: 15, KF(275) #points: 188 
+F(446) #points: 14, KF(275) #points: 188 
+F(447) #points: 14, KF(311) #points: 110 
+F(448) #points: 14, KF(311) #points: 110 
+F(449) #points: 16, KF(275) #points: 188 
+adding new KF with frame id  449: 
+F(450) #points: 15, KF(275) #points: 188 
+F(451) #points: 16, KF(275) #points: 188 
+F(452) #points: 14, KF(275) #points: 188 
+F(453) #points: 16, KF(275) #points: 188 
+F(454) #points: 15, KF(293) #points: 161 
+F(455) #points: 14, KF(275) #points: 188 
+F(456) #points: 15, KF(275) #points: 188 
+F(457) #points: 16, KF(293) #points: 161 
+F(458) #points: 15, KF(275) #points: 188 
+F(459) #points: 15, KF(275) #points: 188 
+F(460) #points: 14, KF(293) #points: 161 
+F(461) #points: 13, KF(310) #points: 121 
+F(462) #points: 12, KF(304) #points: 134 
+F(463) #points: 11, KF(310) #points: 121 
+F(464) #points: 9, KF(310) #points: 121 
+F(465) #points: 7, KF(310) #points: 121 
+F(466) #points: 8, KF(309) #points: 135 
+F(467) #points: 10, KF(310) #points: 121 
+F(468) #points: 10, KF(310) #points: 121 
+F(469) #points: 9, KF(313) #points: 94 
+F(470) #points: 9, KF(313) #points: 94 
+F(471) #points: 9, KF(313) #points: 94 
+F(472) #points: 10, KF(335) #points: 62 
+F(473) #points: 8, KF(313) #points: 94 
+F(474) #points: 9, KF(313) #points: 94 
+F(475) #points: 7, KF(267) #points: 167 
+F(476) #points: 7, KF(267) #points: 167 
+F(477) #points: 5, KF(266) #points: 169 
+F(478) #points: 7, KF(267) #points: 167 
+F(481) #points: 5, KF(267) #points: 167 
+F(491) #points: 10, KF(276) #points: 193 
+F(492) #points: 11, KF(276) #points: 193 
+F(493) #points: 10, KF(275) #points: 188 
+F(494) #points: 8, KF(275) #points: 188 
+F(495) #points: 11, KF(288) #points: 144 
+F(496) #points: 10, KF(298) #points: 156 
+F(497) #points: 10, KF(298) #points: 156 
+F(498) #points: 7, KF(296) #points: 168 
+F(499) #points: 10, KF(293) #points: 161 
+F(500) #points: 8, KF(298) #points: 156 
+F(501) #points: 9, KF(293) #points: 161 
+F(502) #points: 8, KF(298) #points: 156 
+F(503) #points: 6, KF(276) #points: 193 
+F(504) #points: 6, KF(275) #points: 188 
+F(505) #points: 7, KF(296) #points: 168 
+F(506) #points: 7, KF(293) #points: 161 
+F(507) #points: 7, KF(293) #points: 161 
+F(508) #points: 6, KF(293) #points: 161 
+F(509) #points: 7, KF(293) #points: 161 
+F(510) #points: 7, KF(310) #points: 121 
+F(511) #points: 5, KF(275) #points: 188 
+F(513) #points: 9, KF(229) #points: 181 
+F(514) #points: 8, KF(310) #points: 121 
+F(515) #points: 6, KF(275) #points: 188 
+F(516) #points: 5, KF(275) #points: 188 
+F(517) #points: 5, KF(275) #points: 188 
+F(518) #points: 5, KF(275) #points: 188 
+F(519) #points: 6, KF(275) #points: 188 
+F(520) #points: 6, KF(275) #points: 188 
