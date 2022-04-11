@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/student/drone_racing_ws/devel/.private/tello_driver/setup.sh
